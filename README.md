@@ -10,7 +10,7 @@ When Ruby & Jekyll installed:
 > clone this repo
 
 # navigate to the folder
-> cd your-project-folder-name
+> cd Jekyll-Onion
 
 # install project dependencies
 > bundle install
